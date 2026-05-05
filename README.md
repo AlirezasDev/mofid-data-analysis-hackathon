@@ -1,4 +1,4 @@
-# Mofid Data Analysis Hackathon
+# "Mofid Securities" Data Analysis Hackathon
 
 A comprehensive machine learning and data science project covering five distinct problems
 from the Mofid Data Analysis Hackathon. Each question is implemented as a professional,
